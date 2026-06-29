@@ -1,0 +1,10 @@
+data_clean/
+model_results/
+model_refresh/
+*.xlsx
+*.png
+*.csv
+*.txt
+.DS_Store
+.Rhistory
+.secrets
