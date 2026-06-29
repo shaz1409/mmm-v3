@@ -3,7 +3,7 @@ library(glue)
 
 bq_deauth()
 bq_auth(
-  email   = "andrea.rodriguez@ft.com",
+  email   = "shaz.ahmed.indigital@ft.com",
   scopes  = c("https://www.googleapis.com/auth/bigquery"),
   cache   = FALSE
 )
