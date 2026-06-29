@@ -14,9 +14,9 @@
 #  )
 
 env <- list(
- python_path = "/Library/Frameworks/Python.framework/Versions/3.14/bin/python3",
- working_dir = "/Users/shazahmed/Marketing-Mix-Modelling/MMM V3",
- user_email  = "shaz.ahmed.indigital@ft.com"
+  python_path = "/usr/bin/python3",
+  working_dir = "/Users/yunusfouad/Documents/mmm-v3",
+  user_email  = "yunus.fouad.indigital@ft.com"
 )
 
 
